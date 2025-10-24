@@ -1,0 +1,32 @@
+C:\Users\Enes\source\repos\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.exe
+C:\Users\Enes\source\repos\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.deps.json
+C:\Users\Enes\source\repos\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.runtimeconfig.json
+C:\Users\Enes\source\repos\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.dll
+C:\Users\Enes\source\repos\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.pdb
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG_KS_1.Form1.resources
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.csproj.GenerateResource.cache
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.AssemblyInfoInputs.cache
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.AssemblyInfo.cs
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.csproj.CoreCompileInputs.cache
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.dll
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\refint\BG-KS-1.dll
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.pdb
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.genruntimeconfig.cache
+C:\Users\Enes\source\repos\BG-KS-1\obj\Debug\net8.0-windows\ref\BG-KS-1.dll
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.exe
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.deps.json
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.runtimeconfig.json
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.dll
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\bin\Debug\net8.0-windows\BG-KS-1.pdb
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG_KS_1.Form1.resources
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.csproj.GenerateResource.cache
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.AssemblyInfoInputs.cache
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.AssemblyInfo.cs
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.csproj.CoreCompileInputs.cache
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.dll
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\refint\BG-KS-1.dll
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.pdb
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\BG-KS-1.genruntimeconfig.cache
+C:\Users\Enes\Desktop\DERSLERİM\3. Sınıf\BİLGİSAYAR GRAFİKLERİ\BG-KS-1\obj\Debug\net8.0-windows\ref\BG-KS-1.dll
